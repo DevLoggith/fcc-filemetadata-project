@@ -18,7 +18,7 @@ The boilerplate code for this project which my solution is built on top of can b
 `POST /api/fileanalyse`
 ```
 ### Example Response:
-```
+```json
 {
   "name": "Screenshot 2025-06-30 215929.png",
   "type": "image/png",
